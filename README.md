@@ -1,5 +1,7 @@
 # 🚲**AdventureWorks Manufacturing Business Activities Analysis with SQL on BigQuery**
 
+<img width="2000" height="1600" alt="Image" src="https://github.com/user-attachments/assets/0d12a3f4-ced0-401d-aa69-71e81da96504" />
+
 👤 Author: Nguyen Luu Bao Duy
 
 🛠️ Tool Used: SQL
@@ -150,7 +152,7 @@ ORDER BY subcat, year, yoy_rate DESC;
 
 <img width="2000" height="842" alt="Image" src="https://github.com/user-attachments/assets/d21e3c3b-57d7-4300-aa86-444b31827971" />
 
-The year-over-year growth rate in item quantity ordered has shown a consistent decline over time. Notably, all subcategories recorded **negative growth in 2014** — including key revenue drivers such as Mountain Bikes, Road Bikes, and Touring Bikes, which had historically delivered high sales volumes and strong performance. This downturn signals potential structural challenges in the market and highlights the need for further investigation into demand shifts and customer preferences.
+The year-over-year growth rate in item quantity ordered has shown a consistent decline over time. Notably, all subcategories recorded **negative growth in 2014** - including key revenue drivers such as Mountain Bikes, Road Bikes, and Touring Bikes, which had historically delivered high sales volumes and strong performance. This downturn signals potential structural challenges in the market and highlights the need for further investigation into demand shifts and customer preferences.
 
 ## 🔍 Top 3 territories by yearly item quantity ordered
 
@@ -408,7 +410,7 @@ The analysis shows that **there were no pending orders** recorded in 2014. This 
 ## 🌟 Key Insights
 
 **Revenue Concentration & Market Dependence**
-- Revenue is heavily concentrated in three subcategories -** Mountain Bikes**, **Road Bikes**, and **Touring Bikes** - which consistently contribute more than 80% of total sales.
+- Revenue is heavily concentrated in three subcategories - **Mountain Bikes**, **Road Bikes**, and **Touring Bikes** - which consistently contribute more than 80% of total sales.
 - Likewise, **Territories 4 and 6** dominate geographical performance, with Territory 4 standing out as the clear leader.
 - This pattern reflects a strong reliance on a few products and markets, creating **concentration risks** in the event of demand fluctuations.
 
